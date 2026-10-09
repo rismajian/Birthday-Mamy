@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff2e8"/><stop offset="1" stop-color="#f2d2c5"/></linearGradient>
+    <linearGradient id="hijab" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a92f36"/><stop offset="1" stop-color="#641720"/></linearGradient>
+  </defs>
+  <circle cx="64" cy="64" r="62" fill="url(#bg)" stroke="#c5a36a" stroke-width="4"/>
+  <path d="M23 112c2-22 15-35 28-40L64 65l14 7c17 8 27 22 28 40" fill="url(#hijab)"/>
+  <path d="M39 49c0-22 11-33 25-33s25 11 25 33v15c-4 13-15 21-25 21S43 77 39 64z" fill="#f4c9ad"/>
+  <path d="M34 57c-4-27 10-43 30-43 22 0 34 17 30 44l-8-12-8-15c-11 12-25 16-43 15z" fill="url(#hijab)"/>
+  <path d="M37 43c-7 17-6 38 5 52l-8 17h60l-8-17c11-14 12-35 5-52-3 18-18 29-31 29S40 61 37 43z" fill="url(#hijab)"/>
+  <path d="M51 58q5 4 10 0M68 58q5 4 10 0" fill="none" stroke="#63333a" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M59 70q5 4 10 0" fill="none" stroke="#b75a60" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="27" cy="31" r="4" fill="#c5a36a"/><path d="M100 28l2 5 5 2-5 2-2 5-2-5-5-2 5-2z" fill="#c5a36a"/>
+  <path d="M22 88c5-7 11-7 15 0-4 8-10 8-15 0z" fill="#e7a4a0"/><path d="M94 91c5-7 11-7 15 0-4 8-10 8-15 0z" fill="#e7a4a0"/>
+</svg>
